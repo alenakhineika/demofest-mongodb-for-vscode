@@ -6,7 +6,7 @@ At MongoDB, my team builds and maintains tools that help developers to be more p
 
 You can find the talk recording [here](https://youtu.be/FdtWowJ26eg) and lear more about the language server with child threads from my [blogpost](https://medium.com/dailyjs/the-language-server-with-child-threads-38ae915f4910).
 
-The MongoDB for VSCode [product page](https://www.mongodb.com/products/vs-code) provides other useful resources, such as the official documentation, links to the community forum and Visual Studio marketplace.
+The MongoDB for VSCode [product page](https://www.mongodb.com/products/vs-code) provides other useful resources, such as the official documentation, links to the community forum and the Visual Studio marketplace.
 
 Also check out the how to work with MongoDB tutorial written [by VSCode](https://code.visualstudio.com/docs/azure/mongodb).
 
